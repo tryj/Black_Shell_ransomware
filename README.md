@@ -5,7 +5,9 @@ Ransomware program that I wrote to study the attack principle of Ransomware with
 
 ![logo](image/logo.png)
 
-##How to install
-```
-
+## How to install
+``` bash
+git clone https://github.com/tryj/Black_Shell_ransomware.git
+cd Black_Shell_ransomware
+pip install -r requirements.txt
 ```

@@ -5,5 +5,7 @@ Ransomware program that I wrote to study the attack principle of Ransomware with
 
 ![logo](image/logo.png)
 
-How to run
+##How to install
+```
 
+```

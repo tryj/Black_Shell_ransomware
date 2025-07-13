@@ -18,6 +18,8 @@ pip install -r requirements.txt
 python encrypt.py
 ```
 will have file key.key (Do not delete)
-```
+
+## Decode (Must have the same key.key file as the encrypted one)
+``` bash
 python decrypt.py
 ```

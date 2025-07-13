@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ## How to USE (Use python)
-## ![WARNING](https://img.shields.io/badge/Warning-Use%20With%20Caution-red) Be careful not to run in critical folders or run in emulator.
+## $\color{#FF0000}{WARNING}$ Be careful not to run in critical folders or run in emulator.
 ``` bash
 
 ```

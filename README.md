@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ## How to USE (Use python)
-##  $\color{#FF0000}{(Warning)}$ Be careful not to run in critical folders or run in emulator.
+##  $\color{#FF0000}(Warning)$ Be careful not to run in critical folders or run in emulator.
 ``` bash
 
 ```

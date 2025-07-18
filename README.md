@@ -23,3 +23,11 @@ will have file key.key (Do not delete)
 ``` bash
 python decrypt.py
 ```
+
+## How to USE (Use .exe)
+``` bash
+python to_exe.py
+```
+will have Folder dist in Folder will have encrypt.exe and decrypt.exe
+## $\color{#FF0000}WARNING$ Be careful not to run in critical folders or run in emulator.
+will have file key.key (Do not delete)

@@ -30,4 +30,7 @@ python to_exe.py
 ```
 will have Folder dist in Folder will have encrypt.exe and decrypt.exe
 ## $\color{#FF0000}WARNING$ Be careful not to run in critical folders or run in emulator.
+run encrypt.exe
 will have file key.key (Do not delete)
+## Decode
+run decrypt.exe (Must have the same key.key file as the encrypted one)
